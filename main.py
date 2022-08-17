@@ -46,6 +46,7 @@ class Game:
 
         pg.init()
         pg.font.init()
+        pg.display.set_caption("Through the Wild")
 
         # Pygame surface to draw all contents on
         self.screen = pg.display.set_mode([self.SCREEN_W, self.SCREEN_H])
