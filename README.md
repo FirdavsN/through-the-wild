@@ -74,4 +74,5 @@ To do:
 
 
 ## Contact
-Created by @FirdavsN
+- Created by @FirdavsN
+- email: fnasridd@caltech.edu
