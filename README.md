@@ -55,6 +55,9 @@ Run main.py to run the game. You must have internet for it to work as the game c
 
 After the window opens, login with your account. If you don't have one, create one.
 
+```console
+$ python3 main.py
+```
 
 ## Project Status
 Project is: _in progress_
