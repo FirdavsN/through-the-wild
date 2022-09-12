@@ -1,5 +1,5 @@
 """
-Install a requirements
+Install all library requirements.
 """
 
 __author__ = "Firdavs Nasriddinov"
